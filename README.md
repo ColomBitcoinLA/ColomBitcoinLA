@@ -1,18 +1,18 @@
 ## Hola, soy Hans de Colombit 👋
 
-¡Bienvenidos a mi GitHub! Soy un apasionado de la Tecnologia y el Desarrollo de Software. Con más de 6 años de experiencia en el mundo del diseño, me gusta fucionar la creatividad con la tecnología para crear soluciones visuales impactantes y funcionales.
+¡Bienvenidos a mi GitHub! Soy un apasionado de la Tecnologia y el Desarrollo de Software, me gusta fucionar la creatividad con la tecnología para crear soluciones visuales impactantes y funcionales.
 
 Acerca de mí
 🎓 Principal: Programación Web
 📍 Ubicación: Cali - Colombia 🇨🇴
-💼 Puesto/trabajo actual: Dispuesto a encontrar nuevos retos
-🌱 Aprendizaje actual: Desarrollo de software, desarrollo frontend en aprendizaje constante
+💼 Puesto/trabajo actual: Creando empresa
+🌱 Aprendizaje actual: Desarrollo frontend y en aprendizaje constante en el mundo del Desarrollo del Software
 💬 Pregúntame sobre: Programación, IA, CriptoActivos, Fútbol y de todo un poco.
 ⚡ Dato curioso: Me gusta ver fútbol en diferentes estadios y conocer pueblitos. 😄
 Habilidades y Tecnologías
 Aquí tienes algunas de las herramientas y tecnologías con las que me encanta trabajar:
 
-Desarrollo Frontend: HTML, CSS, JavaScript,
+Desarrollo Frontend: HTML, CSS, JavaScript, en aprendizaje con los framworks...
 Bases de Datos: PostgreSQL
 Control de Versiones: Git, GitHub
 Otros: IA automatización, Redes sociales
